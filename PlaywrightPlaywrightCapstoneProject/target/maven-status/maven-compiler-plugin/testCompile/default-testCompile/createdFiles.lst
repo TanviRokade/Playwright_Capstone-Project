@@ -1,0 +1,11 @@
+TestNGSauceDemoWithPlayWright\TestNGLogin.class
+AddToCart\AddToCartMain.class
+TestNGSauceDemoWithPlayWright\DashboardMain.class
+Login\LoginPageMainValidInput.class
+TestNGSauceDemoWithPlayWright\TestNGAddtoCart.class
+TestNGSauceDemoWithPlayWright\TestNGLogout.class
+TestNGSauceDemoWithPlayWright\TestNGCheckout.class
+Login\LoginPageMainInvalidInput.class
+Checkout\CheckOutPage.class
+Logout\LogoutMain.class
+TestNGSauceDemoWithPlayWright\TestNGDashboard.class

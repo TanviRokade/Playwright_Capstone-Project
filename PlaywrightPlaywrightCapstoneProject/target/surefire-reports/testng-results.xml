@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-26T11:51:46 IST" name="Surefire suite" finished-at="2026-09-26T11:52:10 IST" duration-ms="24486">
+    <groups>
+    </groups>
+    <test started-at="2026-09-26T11:51:46 IST" name="Surefire test" finished-at="2026-09-26T11:52:10 IST" duration-ms="24486">
+      <class name="TestNGSauceDemoWithPlayWright.TestNGCheckout">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGCheckout@161479c6]" started-at="2026-09-26T11:51:54 IST" name="setUp" finished-at="2026-09-26T11:51:55 IST" duration-ms="864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCheckOut()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGCheckout@161479c6]" started-at="2026-09-26T11:51:55 IST" name="validateCheckOut" finished-at="2026-09-26T11:51:58 IST" duration-ms="3614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCheckOut -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGCheckout@161479c6]" started-at="2026-09-26T11:51:58 IST" name="teardown" finished-at="2026-09-26T11:51:58 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNGSauceDemoWithPlayWright.TestNGCheckout -->
+      <class name="TestNGSauceDemoWithPlayWright.TestNGAddtoCart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGAddtoCart@16e7dcfd]" started-at="2026-09-26T11:51:46 IST" name="setUp" finished-at="2026-09-26T11:51:50 IST" duration-ms="4509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateAddToCart()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGAddtoCart@16e7dcfd]" started-at="2026-09-26T11:51:50 IST" name="validateAddToCart" finished-at="2026-09-26T11:51:54 IST" duration-ms="3314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddToCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGAddtoCart@16e7dcfd]" started-at="2026-09-26T11:51:54 IST" name="teardown" finished-at="2026-09-26T11:51:54 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNGSauceDemoWithPlayWright.TestNGAddtoCart -->
+      <class name="TestNGSauceDemoWithPlayWright.TestNGLogout">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGLogout@1e802ef9]" started-at="2026-09-26T11:52:06 IST" name="setUp" finished-at="2026-09-26T11:52:08 IST" duration-ms="1321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLogout()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGLogout@1e802ef9]" started-at="2026-09-26T11:52:08 IST" name="validateLogout" finished-at="2026-09-26T11:52:10 IST" duration-ms="2550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGLogout@1e802ef9]" started-at="2026-09-26T11:52:10 IST" name="teardown" finished-at="2026-09-26T11:52:10 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNGSauceDemoWithPlayWright.TestNGLogout -->
+      <class name="TestNGSauceDemoWithPlayWright.TestNGDashboard">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGDashboard@4313f5bc]" started-at="2026-09-26T11:51:58 IST" name="setUp" finished-at="2026-09-26T11:51:59 IST" duration-ms="1013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateDashBoard()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGDashboard@4313f5bc]" started-at="2026-09-26T11:51:59 IST" name="validateDashBoard" finished-at="2026-09-26T11:52:01 IST" duration-ms="1876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDashBoard -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGDashboard@4313f5bc]" started-at="2026-09-26T11:52:01 IST" name="teardown" finished-at="2026-09-26T11:52:01 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNGSauceDemoWithPlayWright.TestNGDashboard -->
+      <class name="TestNGSauceDemoWithPlayWright.TestNGLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGLogin@7f010382]" started-at="2026-09-26T11:52:01 IST" name="setUp" finished-at="2026-09-26T11:52:02 IST" duration-ms="1063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateInValidSauceDemo()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGLogin@7f010382]" started-at="2026-09-26T11:52:02 IST" name="validateInValidSauceDemo" finished-at="2026-09-26T11:52:04 IST" duration-ms="1385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInValidSauceDemo -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGLogin@7f010382]" started-at="2026-09-26T11:52:04 IST" name="teardown" finished-at="2026-09-26T11:52:04 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGLogin@7f010382]" started-at="2026-09-26T11:52:04 IST" name="setUp" finished-at="2026-09-26T11:52:05 IST" duration-ms="1410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateValidSauceDemo()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGLogin@7f010382]" started-at="2026-09-26T11:52:05 IST" name="validateValidSauceDemo" finished-at="2026-09-26T11:52:06 IST" duration-ms="1420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateValidSauceDemo -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNGSauceDemoWithPlayWright.TestNGLogin@7f010382]" started-at="2026-09-26T11:52:06 IST" name="teardown" finished-at="2026-09-26T11:52:06 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNGSauceDemoWithPlayWright.TestNGLogin -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
